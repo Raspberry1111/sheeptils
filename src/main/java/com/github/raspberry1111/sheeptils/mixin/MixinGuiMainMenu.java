@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.raspberry1111.sheeptils.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;
